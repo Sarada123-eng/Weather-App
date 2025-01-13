@@ -1,2 +1,4 @@
 My first own project.
-Using HTML,CSS and javaScript mainly
+
+# Description
+Using HTML,CSS and javaScript mainly.
