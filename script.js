@@ -36,6 +36,6 @@ const updateWeather = async (cityName)=>{
 search.addEventListener("click",()=>{
    let city = document.querySelector(".search-bar input");
    let cityName = city.value; 
-   
+   console.log();
    updateWeather(cityName);
 });
